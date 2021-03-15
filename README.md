@@ -37,10 +37,10 @@
 	| Santiago Ezquerro Marín					| 54				| 0.60				| 1			| 1.67 		   |
 
 * Barca vs Real Madrid 3/0 - shots and goals showing the XG using transparency 
-<img src="https://github.com/ahmed1salama/Breaking-Into-Football-Analytics/blob/main/Barca_2005_2006_stats/Barca_vs_Madrid_2005_2006_3_0_shots.png" alt="Shots and Goals" width="1500" height = "550"/>
+	<img src="https://github.com/ahmed1salama/Breaking-Into-Football-Analytics/blob/main/Barca_2005_2006_stats/Barca_vs_Madrid_2005_2006_3_0_shots.png" alt="Shots and Goals" width="1500" height = "550"/>
 
 * Barca vs Real Madrid 3/0 - Messi passes summary
-<img src="https://github.com/ahmed1salama/Breaking-Into-Football-Analytics/blob/main/Barca_2005_2006_stats/Messi_passes.png" alt="Messi Passes" width="1500" height = "550"/>
+	<img src="https://github.com/ahmed1salama/Breaking-Into-Football-Analytics/blob/main/Barca_2005_2006_stats/Messi_passes.png" alt="Messi Passes" width="1500" height = "550"/>
 
 
 ## Draw_Pitch.R
